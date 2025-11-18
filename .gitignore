@@ -58,3 +58,4 @@ models/*.joblib
 # Poetry
 poetry.lock
 
+.docs/*
